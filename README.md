@@ -16,6 +16,7 @@ Once you have given your talk it would be great to add your slides and or presen
 
 ## Friendly Suggestions
 * Give your self plenty of time to prepare.
+* Make your presentation web based
 * Keep the scope small and relevant to your topic.
 * Check the font size you have if you are showing code.
 * If you have questions about the venue or just want to test out presentation before just message someone in this Organization
