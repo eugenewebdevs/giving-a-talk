@@ -24,4 +24,10 @@ Once you have given your talk it would be great to add your slides and or presen
 * If you are planning on live coding, be fearless. :godmode:
 
 ## Additional Resources
-* WebSlides Framework: https://github.com/jlantunez/webslides/
+
+### Present online from local
+* https://ngrok.com/
+
+### Slides
+* https://github.com/jlantunez/webslides/
+* https://remarkjs.com
