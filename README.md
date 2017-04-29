@@ -17,7 +17,7 @@ Once you have given your talk it would be great to add your slides and or presen
 ## Friendly Suggestions
 * Give your self plenty of time to prepare.
 * Shoot for 30 to 45 min
-* Make your presentation web based and availble online.
+* Make your presentation web based and available online.
 * Keep the scope small and relevant to your topic.
 * Check the font size you have if you are showing code.
 * If you have questions about the venue or just want to test out presentation before just message someone in this Organization
@@ -31,3 +31,10 @@ Once you have given your talk it would be great to add your slides and or presen
 ### Slides
 * https://github.com/jlantunez/webslides/
 * https://remarkjs.com
+
+## Streaming
+With the addition of streaming remember to repeat any questions asked so online viewers get the context of your answer.
+
+Keep in mind that we can do a window on top of your slides with you the presenter in it. See example below:
+
+![alt text](assets/streamExample.png "screen in screen")
