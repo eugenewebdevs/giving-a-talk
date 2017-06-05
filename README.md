@@ -23,14 +23,6 @@ Once you have given your talk it would be great to add your slides and or presen
 * If you have questions about the venue or just want to test out presentation before just message someone in this Organization
 * If you are planning on live coding, be fearless. :godmode:
 
-## Additional Resources
-
-### Present online from local
-* https://ngrok.com/
-
-### Slides
-* https://github.com/jlantunez/webslides/
-* https://remarkjs.com
 
 ## Streaming
 With the addition of streaming remember to repeat any questions asked so online viewers get the context of your answer.
