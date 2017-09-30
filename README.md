@@ -15,7 +15,7 @@ To begin you can open an issue on the waffle board or just contact us directly v
 Once you have given your talk it would be great to add your slides and or presentation resources to resources to the [archive repo](https://github.com/eugenewebdevs/archive) in this group.
 
 ## Friendly Suggestions
-* Give your self plenty of time to prepare.
+* Give your self plenty of time to prepare. Use https://slides.com/
 * Shoot for 30 to 45 min
 * Make your presentation web based and available online.
 * Keep the scope small and relevant to your topic.
