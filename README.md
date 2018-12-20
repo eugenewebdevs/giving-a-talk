@@ -7,7 +7,7 @@ Below is a guide for giving a talk.
 ## What should I know before I get started?
 We talk about anything relating to web development. This can be languages, frameworks, packages, paradigms, services, etc.. It's pretty open.
 
-💡 We have a board for talk ideas over at waffle.io You can look there for suggestions or ad any you come up with. Just login with GitHub and add an issue with the label "talk idea". https://waffle.io/eugenewebdevs/giving-a-talk
+💡 We are always open to suggestions for topics. Contact channels are always on the website.
 
 ## How Can I Contribute?
 To begin you can open an issue on the waffle board or just contact us directly via Meetup.com ✉️
