@@ -1,8 +1,8 @@
-# giving-a-talk
+# Giving a talk
 
 💥 🎉  First off, thanks for wanting to do a talk! 🎉 💥
 
-Below is a guide for giving a talk.
+Below is a quick guide for giving a talk.
 
 ## What should I know before I get started?
 We talk about anything relating to web development. This can be languages, frameworks, packages, paradigms, services, etc.. It's pretty open.
