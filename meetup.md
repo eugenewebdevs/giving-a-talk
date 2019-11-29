@@ -41,6 +41,13 @@ Many services over an RSVP platform. ONe of the issues with this is fragmatation
 For example:
 
 * https://www.eventbrite.com/
+* https://www.ugettogether.com/
+* https://www.groupspaces.com
+* https://www.meetin.org
+
+facebook events??
+
+Roll our own???
 
 
 
