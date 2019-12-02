@@ -10,7 +10,7 @@ Meetup.com has been testing a change to their RSVP structure.
 
 "Beginning in October, members of select groups will be charged a small fee to reserve their spot at events. The event fee can be paid by members or organizers can cover the cost of events to make it free for members."
 
-"“The payment change is a small test with a few groups. Currently organizers pay to manage their groups and we’re exploring ways to reduce this cost. There will not be significant payment changes in the near term and we’ll provide notice about any future changes.”"
+"The payment change is a small test with a few groups. Currently organizers pay to manage their groups and we’re exploring ways to reduce this cost. There will not be significant payment changes in the near term and we’ll provide notice about any future changes."
 
 This would be a $2 fee per RSVP on meetup.com
 
@@ -26,7 +26,7 @@ As a local tech group we have a commitment to offering our gathers as free. Ther
 
 Some meetups are sponsored otherws are not. 
 
-Havinfg an unpredictable fee structure makes gaining sponsorship tougher. At least for the meetup fees. This could also be a large charge for a particular meetup shuld it turn out to be a popular local topic.
+Havinfg an unpredictable fee structure makes gaining sponsorship tougher. At least for the meetup fees. This could also be a large charge for a particular meetup should it turn out to be a popular topic.
 
 ### Community
 
@@ -36,7 +36,7 @@ For any meetup that does have a $2 fee for RSVP community memebers might be less
 
 ### Migration to Options Other than Meetup
 
-Many services over an RSVP platform. ONe of the issues with this is fragmatation. Currently it is easy for a group like Eugene Web Devs to guide someone to a another local group aligned with their interests. Part of the reason is meetup holds the event palnning for most local groups. Should easch group move a differing platform it will bet tougher to guide potential shared community memebers. 
+Many services over an RSVP platform. One of the issues with this is fragmatation. Currently it is easy for a group like Eugene Web Devs to guide someone to a another local group aligned with their interests. Part of the reason is meetup holds the event palnning for most local groups. Should each group move a differing platform it will bet tougher to guide potential shared community memebers. 
 
 For example:
 
