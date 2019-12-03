@@ -2,52 +2,52 @@
 
 ## About
 
-Currently we use meetup.com to track RSVPs to a meetup
+Currently, we use Meetup.com to publish meetups and track RSVPs to them.
 
 ## An issue with meetup.com
 
 Meetup.com has been testing a change to their RSVP structure.
 
-"Beginning in October, members of select groups will be charged a small fee to reserve their spot at events. The event fee can be paid by members or organizers can cover the cost of events to make it free for members."
+"Beginning in October, members of select groups will be charged a small fee to reserve their spot at events. The event fee can be paid by members or organizers can cover the cost of events to make it free for members.
 
 "The payment change is a small test with a few groups. Currently organizers pay to manage their groups and we’re exploring ways to reduce this cost. There will not be significant payment changes in the near term and we’ll provide notice about any future changes."
 
-This would be a $2 fee per RSVP on meetup.com
+This would be a $2 fee per member per RSVP on Meetup.com.
 
-Organizers have the option to subsidize the $2 fee for members who RSVP
+Organizers have the option to subsidize the $2 fee for members who RSVP.
 
 The new pricing does not apply to non-profit groups or Pro Networks.
 
-## What We Have to Concider
+## What We Have to Consider
 
 ### Fees
 
-As a local tech group we have a commitment to offering our gathers as free. There would be charges to attendees or organizers can cover this. Currently there are already fees organozers pay to meetup.com. This is fixed bi anual. With this new structure the fee amount is not fixed, instead is porportial to the attendence size of each indivual meetup. 
+As a local tech group, we have a commitment to offer our gatherings without charge. However, should Meetup.com go forward with the changes, attendees will incur fees should organizers not cover them. Currently, organizers make fixed payments semi-annually to Meetup.com. With the new structure, the fee amount will vary; it will be proportional to the attendance size of each individual meetup. 
 
-Some meetups are sponsored otherws are not. 
+Some meetups are sponsored, others are not. 
 
-Havinfg an unpredictable fee structure makes gaining sponsorship tougher. At least for the meetup fees. This could also be a large charge for a particular meetup should it turn out to be a popular topic.
+Having an unpredictable fee structure makes gaining sponsorship more difficult--at least for covering the meetup fees. This could also result in a large charge for a particular meetup should it turn out to be a popular topic.
 
 ### Community
 
-With many groups using the same platform to organize events has the advantage of visability across groups under a single domain. The community shares a cohesion in this. Our memebers can easly find a more spcialized meetup beyond general web development. This might be language specific or even a non tech meetup. 
+With many groups using the same platform to organize events, there is the advantage of visibility across groups under a single domain. The community is cohesive this way. Our members can easily find a more specialized meetup beyond general web development, such as one that is language specific, or even one that is non-tech.
 
-For any meetup that does have a $2 fee for RSVP community memebers might be less eager to go depending on how many other meetups they have attended or wanting to attend than month.
+For any meetup that does have a $2 fee for RSVPs, community members might be less eager to go, depending on how many other meetups they have attended, or are wanting to attend that month.
 
-### Migration to Options Other than Meetup
+### Migration to Options Other than Meetup.com
 
-Many services over an RSVP platform. One of the issues with this is fragmatation. Currently it is easy for a group like Eugene Web Devs to guide someone to a another local group aligned with their interests. Part of the reason is meetup holds the event palnning for most local groups. Should each group move a differing platform it will bet tougher to guide potential shared community memebers. 
+There are many services with an RSVP platform. One of the issues with this is fragmentation. Currently, it is easy for a group like Eugene Web Devs to guide someone to a another local group aligned with their interests. Part of the reason is Meetup.com holds the event planning for most local groups. Should each group move to different platforms, it will be more difficult to guide potential shared community members. 
 
-For example:
+Example alternatives:
 
 * https://www.eventbrite.com/
 * https://www.ugettogether.com/
 * https://www.groupspaces.com
 * https://www.meetin.org
 
-facebook events??
+Facebook events?
 
-Roll our own???
+Roll our own?
 
 
 
